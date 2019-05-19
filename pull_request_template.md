@@ -31,7 +31,7 @@ Everything in this checklist is required for each PR.  Please do not approve a P
 - [ ] I have pulled from master before submitting this PR
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
-- [ ] My code has been reviewed by at least one peer (the peer review to approve a PR counts.  The review must download and test the code)
+- [ ] My code has been reviewed by at least one peer (the peer review to approve a PR counts.  The reviewer must download and test the code)
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation
 - [ ] My changes generate no new warnings
